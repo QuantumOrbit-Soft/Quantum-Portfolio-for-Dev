@@ -1,4 +1,3 @@
-```text
 # Quantum Portfolio
 
 Simple portfolio for developers, built with React. The page displays profile,
@@ -137,4 +136,3 @@ export default defineConfig({
 ```
 
 Then commit the changes and push them to the `main` branch.
-```
